@@ -1,0 +1,11 @@
+Model Information:
+* title:	POKEMON CARDS 7/9
+* source:	https://sketchfab.com/3d-models/pokemon-cards-79-cedffde11c0045aca5d267a57ca6a2a1
+* author:	tobyporter (https://sketchfab.com/tobyporter)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "POKEMON CARDS 7/9" (https://sketchfab.com/3d-models/pokemon-cards-79-cedffde11c0045aca5d267a57ca6a2a1) by tobyporter (https://sketchfab.com/tobyporter) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

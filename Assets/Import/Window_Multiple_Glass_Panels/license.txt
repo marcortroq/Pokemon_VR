@@ -1,0 +1,11 @@
+Model Information:
+* title:	Window Multiple Glass Panels
+* source:	https://sketchfab.com/3d-models/window-multiple-glass-panels-89119d664af047e8b9805255dc3e0364
+* author:	VisuTech (https://sketchfab.com/VisuTech)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Window Multiple Glass Panels" (https://sketchfab.com/3d-models/window-multiple-glass-panels-89119d664af047e8b9805255dc3e0364) by VisuTech (https://sketchfab.com/VisuTech) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

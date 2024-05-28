@@ -1,0 +1,11 @@
+Model Information:
+* title:	pokémon card - Gyarados portuguese version
+* source:	https://sketchfab.com/3d-models/pokemon-card-gyarados-portuguese-version-8b7a532527cd4e04be49b576e416afd8
+* author:	blondemary (https://sketchfab.com/blondemary)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "pokémon card - Gyarados portuguese version" (https://sketchfab.com/3d-models/pokemon-card-gyarados-portuguese-version-8b7a532527cd4e04be49b576e416afd8) by blondemary (https://sketchfab.com/blondemary) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
